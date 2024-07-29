@@ -6,7 +6,7 @@ Minimum SDK as API 16 (“Jelly Bean”, Android 4.1). Click Finish Button.
 Empty Views Activity. A New Android Activity dialog box appears, Specify the 
 Name of the activity as HomeScreen then click Finish. 
 5. To create a Menu Resource File:
-Right-click on the res directory in your Android project, navigate to New > 
+Right-click on the res directory in your Android project (3 dot or line), navigate to New > 
 Android Resource File, and name the file menus.xml, Root element as Menu
 and update the following content.
 
